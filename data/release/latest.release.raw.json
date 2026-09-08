@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 2053271,
       "digest": "sha256:8927e9e8d3cca38692432caf4ab4dff373bc4c442b67a95eef7bcbe872119795",
-      "download_count": 202,
+      "download_count": 205,
       "created_at": "2026-08-09T18:24:51Z",
       "updated_at": "2026-08-09T18:24:51Z",
       "browser_download_url": "https://github.com/michidk/vscli/releases/download/v1.3.3/vscli-x86_64-pc-windows-msvc.zip"
