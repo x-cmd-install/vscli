@@ -37,7 +37,7 @@ Total: **2,561** lines of code across **21** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 460 · **Forks**: 12 · **Open issues**: 26 · **Contributors**: 8
+- **Stars**: 459 · **Forks**: 12 · **Open issues**: 26 · **Contributors**: 8
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **2,561** lines of code across **21** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 9 | 3 | 0 | 0 | 8 |
-| last60d | 2026-07-12 | 2 | 11 | 3 | 1 | 0 | 26 |
-| 90d | 2026-06-12 | 2 | 12 | 3 | 1 | 0 | 26 |
-| last180d | 2026-03-14 | 3 | 21 | 4 | 1 | 0 | 40 |
-| 360d | 2025-09-15 | 3 | 24 | 4 | 2 | 0 | 41 |
-| last720d | 2024-09-20 | 6 | 57 | 4 | 7 | 0 | 107 |
+| 30d | 2026-08-12 | 0 | 8 | 3 | 0 | 0 | 8 |
+| last60d | 2026-07-13 | 2 | 11 | 3 | 1 | 0 | 26 |
+| 90d | 2026-06-13 | 2 | 12 | 3 | 1 | 0 | 26 |
+| last180d | 2026-03-15 | 3 | 21 | 4 | 1 | 0 | 40 |
+| 360d | 2025-09-16 | 3 | 24 | 4 | 2 | 0 | 41 |
+| last720d | 2024-09-21 | 6 | 57 | 4 | 7 | 0 | 107 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for vscli lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T22:52:47Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T06:22:26Z._
