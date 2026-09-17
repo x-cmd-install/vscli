@@ -47,12 +47,12 @@ Total: **2,561** lines of code across **21** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 0 | 6 | 3 | 0 | 0 | 5 |
-| last60d | 2026-07-18 | 2 | 11 | 3 | 1 | 0 | 22 |
-| 90d | 2026-06-18 | 2 | 11 | 3 | 1 | 0 | 26 |
-| last180d | 2026-03-20 | 3 | 21 | 4 | 1 | 0 | 39 |
-| 360d | 2025-09-21 | 3 | 24 | 4 | 2 | 0 | 41 |
-| last720d | 2024-09-26 | 6 | 55 | 4 | 7 | 0 | 107 |
+| 30d | 2026-08-18 | 0 | 5 | 3 | 0 | 0 | 5 |
+| last60d | 2026-07-19 | 2 | 11 | 3 | 0 | 0 | 22 |
+| 90d | 2026-06-19 | 2 | 11 | 3 | 1 | 0 | 26 |
+| last180d | 2026-03-21 | 3 | 21 | 4 | 1 | 0 | 39 |
+| 360d | 2025-09-22 | 3 | 24 | 4 | 2 | 0 | 41 |
+| last720d | 2024-09-27 | 6 | 55 | 4 | 7 | 0 | 107 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for vscli lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T06:39:27Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T06:43:50Z._
