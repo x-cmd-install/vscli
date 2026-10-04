@@ -41,18 +41,18 @@ Total: **2,561** lines of code across **21** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 157 · **Open PRs**: 1 · **Closed issues**: 24 · **Open issues**: 2 · **Commits**: 372
+- **Releases**: 24 · **Merged PRs**: 157 · **Open PRs**: 2 · **Closed issues**: 24 · **Open issues**: 2 · **Commits**: 372
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 0 | 7 | 0 | 0 | 0 | 8 |
-| last60d | 2026-08-04 | 2 | 18 | 0 | 0 | 0 | 30 |
-| 90d | 2026-07-05 | 2 | 19 | 0 | 1 | 0 | 34 |
-| last180d | 2026-04-06 | 3 | 25 | 0 | 1 | 0 | 40 |
-| 360d | 2025-10-08 | 3 | 32 | 1 | 2 | 0 | 49 |
-| last720d | 2024-10-13 | 6 | 62 | 1 | 7 | 0 | 114 |
+| 30d | 2026-09-04 | 0 | 6 | 1 | 0 | 0 | 8 |
+| last60d | 2026-08-05 | 2 | 18 | 1 | 0 | 0 | 17 |
+| 90d | 2026-07-06 | 2 | 19 | 1 | 1 | 0 | 34 |
+| last180d | 2026-04-07 | 3 | 25 | 1 | 1 | 0 | 40 |
+| 360d | 2025-10-09 | 3 | 32 | 2 | 2 | 0 | 49 |
+| last720d | 2024-10-14 | 6 | 62 | 2 | 7 | 0 | 114 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for vscli lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261003.yml` · 2026-10-03T06:35:57Z._
+_Snapshot: `data/card/261004.yml` · 2026-10-04T07:04:30Z._
