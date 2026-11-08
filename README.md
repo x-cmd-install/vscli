@@ -47,12 +47,12 @@ Total: **2,571** lines of code across **21** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 0 | 39 | 0 | 1 | 0 | 52 |
-| last60d | 2026-09-08 | 0 | 47 | 0 | 1 | 0 | 63 |
-| 90d | 2026-08-09 | 2 | 59 | 0 | 1 | 0 | 72 |
-| last180d | 2026-05-11 | 3 | 65 | 0 | 2 | 0 | 94 |
-| 360d | 2025-11-12 | 3 | 74 | 1 | 2 | 0 | 104 |
-| last720d | 2024-11-17 | 6 | 96 | 1 | 8 | 0 | 166 |
+| 30d | 2026-10-09 | 0 | 38 | 0 | 1 | 0 | 38 |
+| last60d | 2026-09-09 | 0 | 47 | 0 | 1 | 0 | 63 |
+| 90d | 2026-08-10 | 0 | 59 | 0 | 1 | 0 | 71 |
+| last180d | 2026-05-12 | 3 | 64 | 0 | 2 | 0 | 89 |
+| 360d | 2025-11-13 | 3 | 74 | 1 | 2 | 0 | 104 |
+| last720d | 2024-11-18 | 6 | 95 | 1 | 8 | 0 | 163 |
 
 ## Release assets
 
@@ -65,14 +65,6 @@ Total: **2,571** lines of code across **21** files in the top 5 languages.
 | [vscli-x86_64-pc-windows-msvc.zip](https://github.com/michidk/vscli/releases/download/v1.3.3/vscli-x86_64-pc-windows-msvc.zip) | 2.0 MiB | `native/win/x64` |
 | [vscli-x86_64-unknown-linux-musl.tar.gz](https://github.com/michidk/vscli/releases/download/v1.3.3/vscli-x86_64-unknown-linux-musl.tar.gz) | 2.3 MiB | `native/linux/x64/musl` |
 
-## Distribution status
-
-Reported by **4** distros on [repology.org](https://repology.org/project/vscli). **3** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `1.3.3` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for vscli lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `vscli` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -82,4 +74,4 @@ Install metadata for vscli lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T07:22:49Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T07:23:44Z._
