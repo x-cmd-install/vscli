@@ -14,12 +14,12 @@ x install vscli
 
 ## Code insight
 
-Total: **2,571** lines of code across **21** files in the top 5 languages.
+Total: **2,575** lines of code across **21** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Rust | 2,496 | 45 | 391 | 16 |
-| Toml | 68 | 2 | 4 | 3 |
+| Toml | 72 | 6 | 6 | 3 |
 | Json | 7 | 0 | 0 | 1 |
 | Markdown | 0 | 226 | 90 | 1 |
 
@@ -32,27 +32,27 @@ Total: **2,571** lines of code across **21** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.3.3` (2026-08-09)
-- **Last commit**: 2026-11-14
+- **Last commit**: 2026-11-16
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 458 · **Forks**: 12 · **Open issues**: 27 · **Contributors**: 9
+- **Stars**: 458 · **Forks**: 12 · **Open issues**: 27 · **Contributors**: 10
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 202 · **Open PRs**: 3 · **Closed issues**: 25 · **Open issues**: 2 · **Commits**: 436
+- **Releases**: 24 · **Merged PRs**: 202 · **Open PRs**: 3 · **Closed issues**: 25 · **Open issues**: 2 · **Commits**: 437
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 32 | 2 | 1 | 0 | 36 |
-| last60d | 2026-09-17 | 0 | 50 | 2 | 1 | 0 | 63 |
-| 90d | 2026-08-18 | 0 | 58 | 2 | 1 | 0 | 70 |
-| last180d | 2026-05-20 | 2 | 66 | 2 | 2 | 0 | 92 |
-| 360d | 2025-11-21 | 3 | 76 | 3 | 2 | 0 | 106 |
-| last720d | 2024-11-26 | 5 | 96 | 3 | 8 | 0 | 156 |
+| 30d | 2026-10-18 | 0 | 32 | 2 | 1 | 0 | 37 |
+| last60d | 2026-09-18 | 0 | 48 | 2 | 1 | 0 | 64 |
+| 90d | 2026-08-19 | 0 | 58 | 2 | 1 | 0 | 71 |
+| last180d | 2026-05-21 | 2 | 65 | 2 | 2 | 0 | 93 |
+| 360d | 2025-11-22 | 3 | 76 | 3 | 2 | 0 | 107 |
+| last720d | 2024-11-27 | 5 | 95 | 3 | 8 | 0 | 157 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for vscli lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T09:00:08Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T09:36:17Z._
