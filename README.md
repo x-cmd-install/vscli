@@ -21,7 +21,7 @@ Total: **2,574** lines of code across **21** files in the top 5 languages.
 | Rust | 2,495 | 45 | 391 | 16 |
 | Toml | 72 | 6 | 6 | 3 |
 | Json | 7 | 0 | 0 | 1 |
-| Markdown | 0 | 226 | 90 | 1 |
+| Markdown | 0 | 233 | 94 | 1 |
 
 ## Source
 
@@ -32,7 +32,7 @@ Total: **2,574** lines of code across **21** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.3.3` (2026-08-09)
-- **Last commit**: 2026-11-19
+- **Last commit**: 2026-11-20
 - **Assets in release**: 6
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **2,574** lines of code across **21** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 206 · **Open PRs**: 2 · **Closed issues**: 25 · **Open issues**: 2 · **Commits**: 441
+- **Releases**: 24 · **Merged PRs**: 208 · **Open PRs**: 1 · **Closed issues**: 25 · **Open issues**: 2 · **Commits**: 443
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 34 | 1 | 1 | 0 | 41 |
-| last60d | 2026-09-21 | 0 | 52 | 1 | 1 | 0 | 68 |
-| 90d | 2026-08-22 | 0 | 60 | 1 | 1 | 0 | 75 |
-| last180d | 2026-05-24 | 2 | 69 | 1 | 2 | 0 | 97 |
-| 360d | 2025-11-25 | 3 | 80 | 2 | 2 | 0 | 111 |
-| last720d | 2024-11-30 | 5 | 99 | 2 | 8 | 0 | 158 |
+| 30d | 2026-10-22 | 0 | 35 | 0 | 1 | 0 | 0 |
+| last60d | 2026-09-22 | 0 | 54 | 0 | 1 | 0 | 0 |
+| 90d | 2026-08-23 | 0 | 62 | 0 | 1 | 0 | 0 |
+| last180d | 2026-05-25 | 2 | 71 | 0 | 2 | 0 | 0 |
+| 360d | 2025-11-26 | 3 | 82 | 1 | 2 | 0 | 0 |
+| last720d | 2024-12-01 | 5 | 101 | 1 | 8 | 0 | 160 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for vscli lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T08:59:21Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T08:23:18Z._
